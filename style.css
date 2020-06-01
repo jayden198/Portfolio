@@ -1,0 +1,38 @@
+/*selector {
+    property: value; 
+}*/
+
+body {
+    background-image: url(Leeuw.jpg);
+    background-size: cover;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    cursor: alias;  
+}
+
+h2 {
+        color: white;
+        text-align: center;
+        border: Spx solid black;
+        cursor: alias;
+}
+p  {
+     color: blue;
+     cursor: alias;
+}
+
+p {
+     color: 42F9F1;
+     text-align: center
+}
+
+h3 { 
+     
+}
+
+
+    
